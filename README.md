@@ -66,15 +66,15 @@ The dashboard covers a lot of ground: from an executive summary of key takeaways
 For a detailed breakdown and interactive exploration, check out the full U.S. Healthcare Dynamics report.
 
 ## Tools Usaged
-   Power BI
-   EXcel
+   Power BI,
+   EXcel,
    DAX
 
 
-Conclusion
+## Conclusion
 This project offers a thorough look at the U.S. healthcare landscape during 2019-2020 using data analytics and visualization. By cleaning the data, crafting detailed DAX calculations, and building interactive dashboards, it helps healthcare stakeholders better understand the system and make informed choices.
 
-Some key takeaways:
+## Some key takeaways:
 
 The dashboard supports smarter decision-making with easy-to-understand, dynamic visuals.
 
